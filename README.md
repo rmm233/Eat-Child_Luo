@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/rmm233/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="145" alt="Eat-The-Child_Luo"></a>
+  <a href="https://rmm233.github.io/Eat-The-Child_Luo/"><img src="https://github.com/rmm233/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="145" alt="Eat-The-Child_Luo"></a>
 </p>
 <div align="center">
 
@@ -16,10 +16,8 @@ _🦌 网页小游戏 🥛_
 
 |
 [少爷b站](https://space.bilibili.com/1447574)
-|
-[线上版本]()
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+
+[原Github Pages](https://arcxingye.github.io/EatKano/index.html)
 
 ## 可选功能
 
